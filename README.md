@@ -19,7 +19,7 @@ Click below to watch a demo of this project in action:
 
 ## Screenshots
 ### Raspberry Pi Logging Screen
-![Raspberry Pi Screen](media/pi_screen.png)
+![Raspberry Pi Screen](media/logins.png)
 
 ## How It Works
 1. **Scan an RFID Card**:
