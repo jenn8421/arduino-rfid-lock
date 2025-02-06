@@ -13,9 +13,10 @@ This project demonstrates a secure RFID lock system using **multi-factor authent
     - 🎵 Failure: *Imperial March*.
 - **Integration with Raspberry Pi**: Logs login attempts via serial communication.
 
-## Demo
-Check out a demo of this project in action:
-➡️[Watch Demo Video](https://drive.google.com/file/d/1FSMnjKZ0sPT7Wx7d6UZlmJyGW3ECMO5l/view?usp=sharing)⬅️  
+## 🌟Demo🌟
+
+➡️[Watch Demo Video](https://drive.google.com/file/d/1FSMnjKZ0sPT7Wx7d6UZlmJyGW3ECMO5l/view?usp=sharing)⬅️ 
+ 
 
 ## Screenshots
 ### Raspberry Pi Logging Screen
